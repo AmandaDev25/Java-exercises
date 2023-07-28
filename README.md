@@ -1,5 +1,5 @@
 # Java-exercises
-###### Create 10 exercises in Java for a bootcamp
+###### Create 10 exercises in Java 
 
 ## Result
 
